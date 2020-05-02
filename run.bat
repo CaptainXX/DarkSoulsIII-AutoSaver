@@ -1,0 +1,2 @@
+python ./autosaver.py
+pause
